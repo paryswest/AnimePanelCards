@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+
+/* * {
+  box-sizing: border-box;
+  
+} */
+
+body {
+  background-image: url(/images/BGTest2.jpg);
+  background-position: center;
+  font-family: 'dancing script';
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin-bottom: 500px;
+}
+
+.container-1 {
+  display: flex;
+  width: 90vw;
+}
+
+.panel {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  border-radius: 50px;
+  color: #32a852;
+  cursor: pointer;
+  margin: 10px;
+  position: relative;
+  transition: flex 0.7s ease-in;
+}
+
+h1 {
+  font-size: 70px;
+  color: #32a852;
+  text-shadow: 1px 1px 0 #3c3c75;
+  text-align: center;
+  margin: 10px;
+}
+
+.panel h3 {
+  font-size: 40px;
+  font-weight: 900px;
+  text-shadow: 1px 1px 0 #3c3c75;
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  margin: 0;
+  opacity: 0;
+}
+
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h3 {
+  opacity: 1;
+}
+
+@media (max-width: 480px) {
+  body {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5),
+  .panel:nth-of-type(6) {
+    flex-direction: column;
+    
+  }
+}
