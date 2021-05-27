@@ -1,4 +1,4 @@
-# AnimePanelCards
+# AnimePanelCards (TBC)
 A Simple panel with 6 anime characters on them. 
 
 Languages/coding methods used: HTML/CSS/JavaScript
