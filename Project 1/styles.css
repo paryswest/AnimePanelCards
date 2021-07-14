@@ -31,6 +31,7 @@ body {
   border-radius: 50px;
   color: #32a852;
   cursor: pointer;
+  flex: 0.5;
   margin: 10px;
   position: relative;
   transition: flex 0.7s ease-in;
