@@ -3,7 +3,7 @@ A carousel-like panel with 6 of my favorite anime characters on them.
 
 **Link to project:** Coming Soon
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://github.com/paryswest/AnimePanelCards/blob/997242da97afc90bb85abbc1ea3522e7505a5fb4/Anime.gif)
 
 ## How It's Made:
 
