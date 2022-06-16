@@ -1,5 +1,5 @@
 # AnimePanelCards (TBC)
-A carousel-like panel with 6 of my favorite anime characters on them. 
+A carousel-like set of panel cards with 6 of my favorite anime characters on them. 
 
 **Link to project:** Coming Soon
 
