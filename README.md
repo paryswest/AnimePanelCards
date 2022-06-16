@@ -3,7 +3,9 @@ A carousel-like set of panel cards with 6 of my favorite anime characters on the
 
 **Link to project:** Coming Soon
 
-![alt tag](https://github.com/paryswest/AnimePanelCards/blob/997242da97afc90bb85abbc1ea3522e7505a5fb4/Anime.gif)
+<div align="center" >  
+<img src="https://github.com/paryswest/AnimePanelCards/blob/997242da97afc90bb85abbc1ea3522e7505a5fb4/Anime.gif" alt="PanelCardsAnime" height="600px" width="100%" />
+</div>  
 
 ## How It's Made:
 
