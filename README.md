@@ -12,7 +12,6 @@ A carousel-like set of panel cards with 6 of my favorite anime characters on the
 Panel structure was designed using HTML5; styling was applied using CSS3 including transitions and flexbox for a seamless look. Finally light Javascript was applied to make the panels clickeable. Method used was a simple addEventListener and removeActiveClasses, which on click, will make that panel active as well remove an active class away from the other panels that are not clicked on. 
 
 ## Optimizations/Future Updates
-*(optional)*
 
 - Convert project using React Framework as this project has a good deal of dependencies.
 - Adding a deeper dive in to each characters story by applying modals
